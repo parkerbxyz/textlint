@@ -2245,10 +2245,15 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.19.tgz#726171367f404bfbe8512ba608a09ebad810c7e6"
   integrity sha512-PfeQhvcMR4cPFVuYfBN4ifG7p9c+Dlh3yUZR6k+5yQK7wX3gDgVxBly4/WkBRs9x4dmcy1TVl08SY67wwtEvmA==
 
-"@types/node@^14.10.1", "@types/node@^14.18.12":
+"@types/node@^14.10.1":
   version "14.18.12"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.12.tgz#0d4557fd3b94497d793efd4e7d92df2f83b4ef24"
   integrity sha512-q4jlIR71hUpWTnGhXWcakgkZeHa3CCjcQcnuzU8M891BAWA2jHiziiWEPEkdS5pFsz7H9HJiy8BrK7tBRNrY7A==
+
+"@types/node@^14.18.16":
+  version "14.18.16"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.16.tgz#878f670ba3f00482bf859b6550b6010610fc54b5"
+  integrity sha512-X3bUMdK/VmvrWdoTkz+VCn6nwKwrKCFTHtqwBIaQJNx4RUIBBUFXM00bqPz/DsDd+Icjmzm6/tyYZzeGVqb6/Q==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -11235,10 +11240,10 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-pkg-to-readme@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/pkg-to-readme/-/pkg-to-readme-1.1.1.tgz#6d1cf00d3e894f5680337dd3160d389e00053da7"
-  integrity sha512-Eunr6sPGpaEekuxWlMjEseVbN9clSYMdLm1Qbik80keJtgFSS77jmOtuPzOlpTFnOtZNeriqtyjEctKY0Dt6Ag==
+pkg-to-readme@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/pkg-to-readme/-/pkg-to-readme-1.1.2.tgz#63014b7d4c6898db5f33fddddc4fa989515bc403"
+  integrity sha512-b1MY/4v0Nkb0MfiP0PbM1h9PmpSmVLKN04Z3B0jgSBPZkGuxT0bT9Iht/2g+jdcS7Lfk2w1MvYjX1h0MR72gjQ==
   dependencies:
     ejs "^3.1.6"
     meow "^8.1.2"
